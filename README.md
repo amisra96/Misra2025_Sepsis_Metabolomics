@@ -1,4 +1,3 @@
-# sepsis_metabolomics
-Metabolomics performed March-ish 2020
 
-Use ipynb metabolomics_analysis_20210301. Need more clinical info from Joey (e.g. CFU) to include into analysis
+# Misra2025_Sepsis_Metabolomics
+Accompanying metabolomics data analysis for Biorxiv submission ("Branched-chain ketoacid antioxidants mediate disease tolerance to sepsis")
